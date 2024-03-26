@@ -1,10 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 first:
+  company: rf
   name: First Quote
 
 second:
+  company: rf
   name: Second Quote
 
 third:
+  company: sedin
   name: Third Quote
